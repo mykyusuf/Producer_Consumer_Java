@@ -1,5 +1,4 @@
 # Producer_Consumer_Java
-Working to synchronize threads without blocking
 
 The problem is working with multiple threads to keep data in three different queue classes. There is a problem between threads which read data after the writer thread. They are trying to read at the same time.I m working to synchronize threads without blocking. I used monitors to supply synchronization.
 
